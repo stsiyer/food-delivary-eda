@@ -1,6 +1,6 @@
 # Food Delivery System
 
-A microservices-based food delivery system using Flask, Spring Boot, and Kafka.
+A Event Driven Architecture based food delivery system using Flask, Spring Boot, and Kafka.
 
 ## Services
 
