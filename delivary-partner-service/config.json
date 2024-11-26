@@ -1,0 +1,12 @@
+{
+    "kafka": {
+        "bootstrap_servers": "localhost:9092",
+        "topic": "deliveryPartner1",
+        "group_id": "delivery-partner-1",
+        "auto_offset_reset": "earliest"
+    },
+    "delivery_partner": {
+        "name": "Authentic Food",
+        "region": "North"
+    }
+}
